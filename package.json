@@ -36,5 +36,17 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaguirre815/RR-Explore-Redux-Devtools.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaguirre815/RR-Explore-Redux-Devtools/issues"
+  },
+  "homepage": "https://github.com/jaguirre815/RR-Explore-Redux-Devtools#readme",
+  "description": ""
 }
